@@ -1,0 +1,2 @@
+# minimalentry
+personal agile.
